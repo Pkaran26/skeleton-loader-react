@@ -60,3 +60,42 @@ export const posts = [
     date: '25, Jul 2020 02:05 PM'
   },
 ]
+
+export const latest = [
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+  {
+    title: 'this is title'
+  },
+]
